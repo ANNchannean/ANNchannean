@@ -1,5 +1,5 @@
 <p align="center"> 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Working as developer about 2 years and icons below mean that technology that i am using </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,remix,react,typescript,mysql,prisma" /><br>
@@ -12,8 +12,6 @@
 
 <div align="center">
  
- 🌱 I’m currently working on **Remix jS, Prisma ORM**
-
 ⚡ Fun fact **Free for build but not for use**
 
  </div>
